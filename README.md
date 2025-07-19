@@ -1,11 +1,27 @@
 # Diffusion Works
 
+### Theoretical Works
+
+How to Train Your Energy-Based Models - https://arxiv.org/pdf/2101.03288
+
 High-Resolution Image Synthesis with Latent Diffusion Models - https://arxiv.org/abs/2112.10752
+
+Adding Conditional Control to Text-to-Image Diffusion Models - https://arxiv.org/pdf/2302.05543
+
+DreamBooth: Fine Tuning Text-to-Image Diffusion Models
+for Subject-Driven Generation - https://arxiv.org/pdf/2208.12242
+
+InstantBooth: Personalized Text-to-Image Generation without Test-Time
+Finetuning - https://arxiv.org/pdf/2304.03411
+
+Video Diffusion Models - https://arxiv.org/pdf/2204.03458
 
 GLIDE: Towards Photorealistic Image Generation and Editing with
 Text-Guided Diffusion Models - https://arxiv.org/pdf/2112.10741
 
 SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations - https://arxiv.org/pdf/2108.01073
+
+
 
 ## Video Pipelines - Pretrained Text to Video Models
 TokenFlow: Consistent Diffusion Features for Consistent Video Editing - https://arxiv.org/pdf/2307.10373
